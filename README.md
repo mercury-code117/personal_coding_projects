@@ -1,2 +1,2 @@
-# personal_python_projects
-Python projects I make to test either new concepts, or to refresh on the basics of the language.
+# personal_coding_projects
+Projects from a variety of languages I've learnt at university, and presenting simple projects that I create to refresh or try new processes.
