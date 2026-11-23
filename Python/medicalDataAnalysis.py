@@ -6,7 +6,6 @@ import numpy as np
 import scipy as stats
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("healthcare_dataset.csv")
+df = pd.read_csv("Python/healthcare_dataset.csv")
 
 print(df.head())
-
